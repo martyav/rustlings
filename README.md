@@ -163,3 +163,7 @@ See [CONTRIBUTING.md](https://github.com/rust-lang/rustlings/blob/main/CONTRIBUT
 ## Contributors ✨
 
 Thanks to [all the wonderful contributors](https://github.com/rust-lang/rustlings/graphs/contributors) 🎉
+
+----
+
+Test!
